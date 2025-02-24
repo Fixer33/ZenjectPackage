@@ -1,0 +1,14 @@
+{
+	"name": "com.fixer33.extenject-fork",
+	"version": "9.1.0",
+	"displayName": "Extenject fork",
+	"description": "Fork of original Dependency Injection Framework for Unity3D",
+	"unity": "6000.0",
+	"author": {
+		"name": "Fixer33",
+		"email": "fsfixer33@gmail.com",
+		"url": "https://github.com/Fixer33"
+	},
+	"samples": [
+	]
+}
