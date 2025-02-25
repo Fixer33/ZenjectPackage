@@ -1,5 +1,3 @@
-<img src="Documentation/Images/PNG_Zenject-colour (1).png?raw=true" alt="Zenject" width="900px" height="234px"/>
-
 # A fork of original Extenject repository to be used as a UPM Package
 
 
